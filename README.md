@@ -39,7 +39,7 @@ Host serveur-projet
 As a stretch goal, I installed and configured Fail2ban on the Ubuntu server to protect against brute-force attacks.
 Installation: sudo apt install fail2ban
 
-&nbsp;   Status: Verified as active (running) to monitor failed login attempts.
+Status: Verified as active (running) to monitor failed login attempts.
 
 \## 5. How to Connect
 
